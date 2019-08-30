@@ -1,1 +1,1 @@
-WEEB
+Given number is positive integer
