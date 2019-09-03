@@ -1,0 +1,7 @@
+Step 1 : Ask user for muliple numbersfor input
+Step 2 : Set the first number as x
+Step 3 : While there is new number to the right, repeat steps 4 and 5
+Step 4 : Compare x to the next number
+Step 5 : If x is greater than the next number then set the new number as the value of x, else 	
+the value of x remains
+Step 6 : Print out the final answer as the value of x

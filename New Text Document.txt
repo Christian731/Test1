@@ -1,1 +1,9 @@
-Given number is positive integer
+Step 1 : Input a number
+Step 2 : Set input in celsius
+Step 3 : Set celsius as x
+Step 4 : Set the value of F to 0
+Step 5 : Set the value of y to 0
+Step 6 : Multiply x by 9/5 to get y
+Step 7 : Add 32 to the current value of y to get the value of F
+Step 8 : Print the final answer F
+

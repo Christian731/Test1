@@ -1,0 +1,4 @@
+Step 1 : Ask user for input
+Step 2 : If the input is negative multiply by -1, else multiply by 1
+Step 3 : Divide the input by 2.0
+Step 4 : If there is a remainder then print final answer odd, else print final answer even
